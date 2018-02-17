@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+} 
+
+
+
+.nav {float: right;
+      margin: 30px;}
+.nav :nth-child(2) {margin: 10px;}
+.nav :first-child { float: left;
+margin: 20px;}
+
+
+
