@@ -7,4 +7,30 @@
 }
 .jumbotron :first-child {float: left;}
 
+.container{
+    /* display: flex; */
+    padding: 30px;
+    width: 100%;
+    max-width: 270px;
+    float:right;}
+
+
+
+.jumbotron :nth-child(2)
+{   padding: 30px;
+    width: 100%;
+    max-width: 270px;
+    float:right;}
+
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top:8px;
 }
+
+#social1 {
+    width: 62px;
+    height: 32px;
+    margin-bottom:20px;
+}
+
