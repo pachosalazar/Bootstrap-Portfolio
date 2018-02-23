@@ -3,8 +3,9 @@
 }
 /* .my-image {text-align: left;} */
 .p  {text-align: right;
-    font-family: 'Kaushan Script', cursive;}
+    }
 
+.row {font-family: 'Amita';font-size: 22px;}
 .sidebar-module-inset {
     padding: 15px;
     background-color: #f5f5f5;
